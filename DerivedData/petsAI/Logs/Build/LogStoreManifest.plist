@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D775E4B1-46CD-4A1C-82F8-8A068152BF36</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D775E4B1-46CD-4A1C-82F8-8A068152BF36.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>petsAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>petsAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build petsAI</string>
+			<key>timeStartedRecording</key>
+			<real>726848889.31174505</real>
+			<key>timeStoppedRecording</key>
+			<real>726848898.86002696</real>
+			<key>title</key>
+			<string>Build petsAI</string>
+			<key>uniqueIdentifier</key>
+			<string>D775E4B1-46CD-4A1C-82F8-8A068152BF36</string>
+		</dict>
+		<key>DEBC9CF8-F1FF-44C0-BE6A-7C507C095FFE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DEBC9CF8-F1FF-44C0-BE6A-7C507C095FFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>petsAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>petsAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build petsAI</string>
+			<key>timeStartedRecording</key>
+			<real>726848468.10404503</real>
+			<key>timeStoppedRecording</key>
+			<real>726848478.04496098</real>
+			<key>title</key>
+			<string>Build petsAI</string>
+			<key>uniqueIdentifier</key>
+			<string>DEBC9CF8-F1FF-44C0-BE6A-7C507C095FFE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

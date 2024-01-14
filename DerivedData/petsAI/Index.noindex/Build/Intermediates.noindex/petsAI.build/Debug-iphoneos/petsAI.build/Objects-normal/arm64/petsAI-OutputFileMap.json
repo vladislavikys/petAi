@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAI.build/Objects-normal/arm64/petsAI-master.d",
+    "diagnostics" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAI.build/Objects-normal/arm64/petsAI-master.dia",
+    "emit-module-dependencies" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAI.build/Objects-normal/arm64/petsAI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAI.build/Objects-normal/arm64/petsAI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAI.build/Objects-normal/arm64/petsAI-master.swiftdeps"
+  },
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/petsAI/AppDelegate.swift" : {
+
+  },
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/petsAI/SceneDelegate.swift" : {
+
+  },
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/petsAI/ViewController.swift" : {
+
+  }
+}

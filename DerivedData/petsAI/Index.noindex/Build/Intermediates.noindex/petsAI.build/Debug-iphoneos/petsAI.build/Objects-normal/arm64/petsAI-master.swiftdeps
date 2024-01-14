@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "65f364fa5205f4f01b6d628db16107a56bb20c3f54a3ab75e29fe2cbb8e9fee6"
+build_start_time: [1705155678, 242626000]
+build_end_time: [1705155678, 244348000]
+inputs:
+  ? "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAI.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1705155667, 667085791]
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/petsAI/AppDelegate.swift": !dirty [1705155661, 680273999]
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/petsAI/SceneDelegate.swift": !dirty [1705155661, 685895916]
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/petsAI/ViewController.swift": !dirty [1705155661, 687974333]

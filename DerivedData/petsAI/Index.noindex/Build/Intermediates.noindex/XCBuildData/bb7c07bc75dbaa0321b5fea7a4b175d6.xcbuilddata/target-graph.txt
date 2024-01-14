@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'petsAIUITests' in project 'petsAI' (no dependencies)
+Target 'petsAIUITests' in project 'petsAI'
+➜ Explicit dependency on target 'petsAI' in project 'petsAI'
+Target 'petsAIUITests' in project 'petsAI'
+➜ Explicit dependency on target 'petsAI' in project 'petsAI'
+Target 'petsAITests' in project 'petsAI' (no dependencies)
+Target 'petsAITests' in project 'petsAI'
+➜ Explicit dependency on target 'petsAI' in project 'petsAI'
+Target 'petsAITests' in project 'petsAI'
+➜ Explicit dependency on target 'petsAI' in project 'petsAI'
+Target 'petsAI' in project 'petsAI' (no dependencies)
+Target 'petsAI' in project 'petsAI' (no dependencies)

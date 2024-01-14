@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAIUITests.build/Objects-normal/arm64/petsAIUITests-master.d",
+    "diagnostics" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAIUITests.build/Objects-normal/arm64/petsAIUITests-master.dia",
+    "emit-module-dependencies" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAIUITests.build/Objects-normal/arm64/petsAIUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAIUITests.build/Objects-normal/arm64/petsAIUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vlad/Desktop/swift project all/2024/petsAI/DerivedData/petsAI/Index.noindex/Build/Intermediates.noindex/petsAI.build/Debug-iphoneos/petsAIUITests.build/Objects-normal/arm64/petsAIUITests-master.swiftdeps"
+  },
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/petsAIUITests/petsAIUITests.swift" : {
+
+  },
+  "/Users/vlad/Desktop/swift project all/2024/petsAI/petsAIUITests/petsAIUITestsLaunchTests.swift" : {
+
+  }
+}
